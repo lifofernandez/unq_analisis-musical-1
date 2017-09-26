@@ -9,8 +9,10 @@ dos y observar si son idénticoe, similares o diferentes entre sí. De este modo
 ble determinar los momentos de cierre de la exposicion de cada fenomeno, instante en el
 que retroactivamente se lo comprende. La audicion eg siempre un proceso que avanza en
 el tiempo y a la vez retrocede reconstruyendo comprensivamente lo ya escuchado.
+
 El proceso descripto es, por cierto, arduo y vertiginoso y requiere en Ciertos casoe.de
 gran numeno de audiciones succeivas.
+
 El análigig que se basa en la partitura presenta ventajas e inconvenientes. Por una
 p rte, el ambitoe Mpacia de la hoja impree & nos permite "congelar" el discurso fluyen—
 te en el tiempo, observarla en detalle, retroceder y avanzar sobre el facilitando la
@@ -36,7 +38,7 @@ para intentar identificar las caracteristicas intrínsecas de la obra y "filtrar
 
 traves de la interpretacion.
 
-Vj-E1 discurso muéical
+#### discurso muéical
 ' En que consiste el discurso musical? Qué es lo que la musica transmite a los oyen—
 
 .tcc? , . .
