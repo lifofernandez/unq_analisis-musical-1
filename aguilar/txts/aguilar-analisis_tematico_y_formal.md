@@ -10,25 +10,26 @@
 
 **Año 1989**
 
-## INTRODUCCIÓN
+## Introducción
 
-El estudío de la _organización sintáctica_ de la música es uno de los aspectos
-del estudio de la _Forma Musical_. Se refiere al análisis de la organizacion de
+El estudío de la __organización sintáctica__ de la música es uno de los aspectos
+del estudio de la __Forma Musical__. Se refiere al análisis de la organizacion de
 la música en el tiempo y, por lo tanto, a la segmentación del discurso musical
 en secciones significativas.
 
-### Análisis musical 
+## Análisis musical 
 
 Ubicaremos el estudio de las estructuras sintácticas dentro del contexto más
 amplio de análisis musical en general. Por ello, comenzaremos por preguntarnos
 cuál es el sentido o del análisis musical. 
 
-#### Analizamos una obra musical por váríos motivos: 
+**Analizamos una obra musical por váríos motivos:**
 
-porque la hemos oído, nos produjo cierto placer estético y nos interena
-desentrañar detalles de su construcción; porque queremos comprenderla para
-luego interpretarlo; porque nos parece útil para nuestra formación como
-músicos acceder al conocimiento los recursos del lenguaje musical.
+- porque la hemos oído, nos produjo cierto placer estético y nos interesa
+  desentrañar detalles de su construcción; 
+- porque queremos comprenderla para luego interpretarlo; 
+- porque nos parece útil para nuestra formación como músicos acceder al
+  conocimiento los recursos del lenguaje musical.
 
 Podría aquí objetarse que los "lenguajes musicales" son muchos, que transmiten
 diferentes experiencias estéticas, que cada oyente carga de sentido y emoción
@@ -36,28 +37,28 @@ la obra que escucha, etc.  Mas allá de lo validez de estas objeciones, podemos
 concentrar nuestra atención estudiando de qué manera y ta través de qué
 aspectos lá obra musical interactúa con nuestra percepción.
 
-El análisis nos informará sobre los _recursos de la composición_ en general,
+El análisis nos informará sobre los __recursos de la composición__ en general,
 más allá del lenguaje específico utilizado. Luego podremos profundizar sobre
 los recursos de cada uno (?) y, dentro del estilo, sobre las tendencias propias
 de cada compositor.
 
-#### La partitura y el análisis auditívo
+### La partitura y el análisis auditívo
 
 Puede encararse el análisis de una obra desde dos flancos diferentes: la
-_audición_ de una versión determinada o al trabajo sobre la _partitura_. Ambos
+__audición__ de una versión determinada o al trabajo sobre la __partitura__. Ambos
 enfoques presentan problemas que es interesante considerar a través de algunas
 reflexiones.
 
-La musica es un arte del _tiempo_: articula el tiempo mediante la organización
-de los sonidos. Al escucharla ponemos en juego simultáneamente la _percepción
-auditiva_ y la capasidad de _memoria_.
+La musica es un arte del __tiempo__: articula el tiempo mediante la organización
+de los sonidos. Al escucharla ponemos en juego simultáneamente la __percepción
+auditiva__ y la capasidad de __memoria__.
 
-La _decodificación_ del mensaje sonoro (musical, verbal, etc) tiene que
+La __decodificación__ del mensaje sonoro (musical, verbal, etc) tiene que
 necesenriamente organizarse en el tiempo apelando a la memoria. La comprensión
 del discurso musical requiere identificar puntualmente los fenómenos,
 compararlos con otros ya escuchados y observar si son idénticos, similares o
-diferentes entre sí. De este modo, es posible determinar los _momentos de
-cierre_ de la exposicion de cada fenomeno, instante en el que _retroactivamente_
+diferentes entre sí. De este modo, es posible determinar los __momentos de
+cierre__ de la exposicion de cada fenomeno, instante en el que __retroactivamente__
 se lo comprende. La audicion es siempre un proceso que avanza en el tiempo y a
 la vez retrocede reconstruyendo comprensivamente lo ya escuchado.
 
@@ -125,87 +126,88 @@ expectativas que éste se ocupará de satisfacer o contradecir.
 Cade obra musical en una compleja red de fenómenos sonoros, cada uno de ellos
 con una organización propia, que incide sobre la percepción y la memoria…
 
-El puso_?áoico del análisis consiste en desglocar convenientemente dicha
-multiplidíded
+El paso básico del análisis consiste en __desglosar__ convenientemente dicha
+multiplicídad observando los aspectos parciales del fenomeno.
 
-obeervando los asneétos parciales del fenomeno.  Una vez efectuado el desglose
-de estos Aspectos ee necesaria una obeervaoion ouida—
+Una vez efectuado el desglose de estos aspectos es necesaria una observación
+cuidadosa de cada uno de ellos desde el punto vista de su __evolucion en el
+tiempo__. Utilizaremos para ello ciertos conceptos que nos ayudaran a enfocar
+el problema: 
 
-dona de cada uno de ellos desde el punto<b vista de su evolucion en el tiempo
-Utili- zaremos para ello cier£oo conceptos que nos ayudaran a enfocar el
-problema: * —ºermanencia: el fenomeno observado se mantiene en el tiempo; A
+- permanencia: el fenomeno observado se mantiene en el tiempo;
 
-- cambio:  deoapareoe un fenomeno y aparece otro; '
+- cambio:  desapareoe un fenomeno y aparece otro; 
 
-retornó: vuelve a aparecer algo que había sido registrado con anterioridad.,
+- retorno: vuelve a aparecer algo que había sido registrado con anterioridad.
 
-Considerarcmos tambien las modalidades de la repetición:
+Consideraremos tambien las modalidades de la repetición:
 
-_'reiteracion: no vuelvo ¡ preecntur un fenomeno. Entre ambas presentaciones
-no se
+- reiteración: se vuelve a presentar un fenomeno. Entre ambas presentaciones se
+  registra la aparicion algo diferente;
 
-registra la aparicion<b algo diferente;
+- recurrencia; hay un cambio antes de la reaparicion de un fenomeno.
 
-recurrencia; hay un cambio antes de la reaparicion de un fenomeno.
+En la reiteración el "cambio" remite al fenomeno ya registrado. La recurrencia
+es un proceso mas complejo ya que obligá a recordar y reconocer un fenomeno
+anterior que reaparece déspuás de haberse presentado un cambio.
 
-En la …rciteraoicn el "co.mbio" remite al fenomeno ya registrado. La
-recurrencia es in proceuó mas complejo ya que obligá a recordar y reconocer un
-fenomeno anterior que reaparece déspuás de haberee presentado un cambLo.
+Podemoe sintétizar estos conceptos en un cuadro:
 
-Podemoe eintétizat estos conceptos en un cuadro:
+```
+Permanencia     Cambio       Retorno
 
-Permanenciav ¿ Cambio ' Retorno
+       Reiteración   Recurrencia
+```
 
-Reiteraéión ' Recufrcncia
+Estos conoceptos deben ser áplicados no solo a cada uno de los espectos del
+fenómeno observado sino tambien a la interrelacion entre ellos. Nuestra
+percepcion se aclararn si podemos definir con precision si todos los aspectos
+del fenomeno permanecen en el tiempo, si algo permanece mientras otros
+aspectos cambian, si el retorno es textual o preseenta cambios, cuál es la medida
+de loa cambios. etc. Al estudiar entonces la __interacción__ entre todos los
+aspectos observados se obtendrá una __síntesis__ reveladora de le complejidad del
+proceso.
 
-Eaton conocptos.dcben ner áplicadoo no 5610 a cada uno de ice e5pectoe del
-fenómeno beervado sino tambien a la interrelacion entre ellos. Nuestra
-percepcion se aclararn 1 podemos definir con precision si. todos los aspectos
-del fenomeno permanecen en el iempo, ei algo permanece mientras otron
-eopectcseambian,pi el retorno en textual o _ regenta cambios, cuál es la medida
-de loa cambios. etc.:51 estudiar entonces la ¿g£g£ggion entre todos los
-aspectos observados se obtendrá una síntesis reveladora de le compleidad del
-proceso. ' ines de análisis 1 primer paso del análisis consiste en una
-aproximación totalizadora, registrando los ¡cos 0 et? pt..s del(bvenir del
-discurso: las íunciones formales . Según se detallará más ¡alante, observaremos
-que funciones se presentan a nues tra percepción y tomaremos nota .1 orden de
-aparición de dichag funciones y de la longitud relativa de los segmentos que no
-soportan. …
+### Tipos de análisis 
 
-Lºs pasos siguientes del análisis tienen relacion con el upo de obra. En una
-obra £ºggl
+El primer paso del análisis consiste en una aproximación totalizadora,
+registrando los pasos o etapas del devenir del discurso: las __funciones
+formales__. Según se detallará más adelante, observaremos que funciones se
+presentan a nuestra percepción y tomaremos nota del orden de aparición de
+dicha funciones y de la longitud relativa de los segmentos que las soportan.
 
-codigo de relaciones toneles sirve de hilo conductor del discurso: sobre 51 se
-organi.n las relaciones de tension y reposo y se construyen las
-funcionesíbrmaleg. Es por lo nio imprescindible en estas obras, un buen
-ggálisis armónico, registrando:
+Los pasos siguientes del análisis tienen relacion con el tipo de obra. En una
+obra __tonal__ el código de relaciones tonales sirve de hilo conductor del
+discurso: sobre e1 se organizan las relaciones de tensión y reposo y se
+construyen las funciones formales. Es por lo tanto imprescindible en estas obras,
+un buen __análisis armónico__, registrando:
 
-proceso tonel
+- proceso tonal
 
-funciones armónicas
+- funciones armónicas
 
-» tipos e inversionee de acordes
+- tipos e inversionee de acordes
 
-relaciones ritmo/ armonía y meiodía/ armonía.
+- relaciones ritmo/ armonía y meiodía/ armonía.
 
-, . o : I : armonia es un plano de Significacion qu FLFVO como "puntuación"
-para el discurso?
+La armonía es un plano de significacion que sirve como "puntuación" para el discurso.
+[^2]
 
  
 
-Observar, por ejemplo, la relación entre la %Ementacíón formal y las funciones
-armoni—
+[^2]
+> Observar, por ejemplo, la relación entre la __segmentacíón formal__ y las
+> funciones armonicas en canciones populares (o estrofas, estribillos, etc.)
+> 
+> Anilizar el __plan en tonal__ en las sonatas de Mozart y Beethoven, observando
+> la relacion entre la función formal y el __esquema armónico__ que le sirve de
+> apoyo.
+> 
+> Analizar el "lieder” y pequeñas piezas para piano del romanticismo (Schubert,
+> Brahms. Schumann, etc.) observando la relacion entre la organizacion formal
+> (y/o la construccion del texto -?-) y el plan armónico.
 
-1 en canciones populares (o estrofas, estribillos, etc.
-
-¡lizar el 21 en tonel en las sonatas de Mozart y Beethoven, obserVando la
-relacion entre ¡¿ función formal y el eegnema armónico que le sirve de apoyo.
-
-1i2c .r "1ieder” y pequeñas piezas para piano de: romanticismo (Schubert
-Brahms. Schumann.  fo etc. ) Observando la relacion entre la organizacion
-formal (y/o la construccion del tº) y El plan armónico.
-
-.…-..-..- -' V
+# HOJA 4
 
 En las obras en las que la armonia ha perdido su carácter funcional es útil ann
 objeto sonoro”. Los contrastan entre tipos
